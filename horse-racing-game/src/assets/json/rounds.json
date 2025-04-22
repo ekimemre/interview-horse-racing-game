@@ -1,0 +1,10 @@
+{
+    "rounds": [
+        { "round": 1, "meter": 1200, "racers": [], "roundFinished": false, "isActive": false, "title": "Round 1 - 1200m" },
+        { "round": 2, "meter": 1400, "racers": [], "roundFinished": false, "isActive": false, "title": "Round 2 - 1400m" },
+        { "round": 3, "meter": 1600, "racers": [], "roundFinished": false, "isActive": false, "title": "Round 3 - 1600m" },
+        { "round": 4, "meter": 1800, "racers": [], "roundFinished": false, "isActive": false, "title": "Round 4 - 1800m" },
+        { "round": 5, "meter": 2000, "racers": [], "roundFinished": false, "isActive": false, "title": "Round 5 - 2000m" },        
+        { "round": 6, "meter": 2200, "racers": [], "roundFinished": false, "isActive": false, "title": "Round 6 - 2200m" }
+      ]
+}
